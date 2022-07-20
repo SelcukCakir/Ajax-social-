@@ -1,0 +1,24 @@
+body{
+    background-image: linear-gradient(90deg, #ddd0, #0000ff26);
+}
+.homeUsers{
+    border: 2px solid #e2e2e2;
+    padding: 10px;
+    box-shadow: 2px 4px #ddd;
+    margin-bottom: 2em;
+    background-color: aliceblue;
+}
+.homeUsers:hover{
+    background-color: white;
+    cursor: pointer;
+}
+.footer{
+	background-color: #2A2323;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	height: 10vh;
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+}
